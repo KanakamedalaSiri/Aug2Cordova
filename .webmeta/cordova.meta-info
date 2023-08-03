@@ -1,0 +1,103 @@
+{
+    "HEAD": "w931b118f0e54a77b7a5b9e88c401b8c",
+    "w076469e771f4bcbb52ef4f61e0d9866": {
+        "children": [
+            "wab7a0ebf4bc48a3a1270d43a879d039"
+        ],
+        "kuid": "w076469e771f4bcbb52ef4f61e0d9866",
+        "name": "js",
+        "parent": "wa65dddcef944cf98ec9efe95ffd72d9",
+        "type": "D"
+    },
+    "w0ce6c4b773545ab8dfa07dcf8e76215": {
+        "children": [
+            "w9bdf20e7e0640edb6690153b9dfddd1"
+        ],
+        "kuid": "w0ce6c4b773545ab8dfa07dcf8e76215",
+        "name": "css",
+        "parent": "wa65dddcef944cf98ec9efe95ffd72d9",
+        "type": "D"
+    },
+    "w34ca7931eb24c279781e796dec53e35": {
+        "extension": "html",
+        "kuid": "w34ca7931eb24c279781e796dec53e35",
+        "name": "index.html",
+        "parent": "wa65dddcef944cf98ec9efe95ffd72d9",
+        "type": "F"
+    },
+    "w42ff3cd5705480c9cd75ec2ad916877": {
+        "extension": "md",
+        "kuid": "w42ff3cd5705480c9cd75ec2ad916877",
+        "name": "README.md",
+        "parent": "wcb74325c43a4e719a633c416e8c982f",
+        "type": "F"
+    },
+    "w75a0bd582b545939b22b959764f3adc": {
+        "extension": "xml",
+        "kuid": "w75a0bd582b545939b22b959764f3adc",
+        "name": "config.xml",
+        "parent": "w931b118f0e54a77b7a5b9e88c401b8c",
+        "type": "F"
+    },
+    "w931b118f0e54a77b7a5b9e88c401b8c": {
+        "children": [
+            "w75a0bd582b545939b22b959764f3adc",
+            "wcb74325c43a4e719a633c416e8c982f",
+            "wa65dddcef944cf98ec9efe95ffd72d9"
+        ],
+        "kuid": "w931b118f0e54a77b7a5b9e88c401b8c",
+        "name": "cordova",
+        "type": "C"
+    },
+    "w9bdf20e7e0640edb6690153b9dfddd1": {
+        "extension": "css",
+        "kuid": "w9bdf20e7e0640edb6690153b9dfddd1",
+        "name": "index.css",
+        "parent": "w0ce6c4b773545ab8dfa07dcf8e76215",
+        "type": "F"
+    },
+    "wa13c36afb694eb499920fb8fe8ce7eb": {
+        "extension": "png",
+        "kuid": "wa13c36afb694eb499920fb8fe8ce7eb",
+        "name": "logo.png",
+        "parent": "wd42b85ed2754056bd2804feb381101f",
+        "type": "F"
+    },
+    "wa65dddcef944cf98ec9efe95ffd72d9": {
+        "children": [
+            "w0ce6c4b773545ab8dfa07dcf8e76215",
+            "wd42b85ed2754056bd2804feb381101f",
+            "w34ca7931eb24c279781e796dec53e35",
+            "w076469e771f4bcbb52ef4f61e0d9866"
+        ],
+        "kuid": "wa65dddcef944cf98ec9efe95ffd72d9",
+        "name": "www",
+        "parent": "w931b118f0e54a77b7a5b9e88c401b8c",
+        "type": "D"
+    },
+    "wab7a0ebf4bc48a3a1270d43a879d039": {
+        "extension": "js",
+        "kuid": "wab7a0ebf4bc48a3a1270d43a879d039",
+        "name": "index.js",
+        "parent": "w076469e771f4bcbb52ef4f61e0d9866",
+        "type": "F"
+    },
+    "wcb74325c43a4e719a633c416e8c982f": {
+        "children": [
+            "w42ff3cd5705480c9cd75ec2ad916877"
+        ],
+        "kuid": "wcb74325c43a4e719a633c416e8c982f",
+        "name": "hooks",
+        "parent": "w931b118f0e54a77b7a5b9e88c401b8c",
+        "type": "D"
+    },
+    "wd42b85ed2754056bd2804feb381101f": {
+        "children": [
+            "wa13c36afb694eb499920fb8fe8ce7eb"
+        ],
+        "kuid": "wd42b85ed2754056bd2804feb381101f",
+        "name": "img",
+        "parent": "wa65dddcef944cf98ec9efe95ffd72d9",
+        "type": "D"
+    }
+}
